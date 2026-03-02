@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Personal Finance Tracker**
 
-- 🌱 I’m currently learning **PHP,C++**
+- 🌱 I’m currently learning **React,Node.js**
 
 - 👨‍💻 All of my projects are available at [dK3m.github.io](dK3m.github.io)
 
